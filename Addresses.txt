@@ -1,0 +1,59 @@
+/*-------------------------- MAINNET --------------------------------- */
+    // address SLPAddress = 0x070a08beef8d36734dd67a491202ff35a6a16d97;
+    // address AXSAddress = 0x715d400f88c167884bbcc41c5fea407ed4d2f8a0;
+    // address WETHAddress = 0x2170ed0880ac9a755fd29b2688956bd959f933f8;
+    // address USDCAddress = 0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d;
+    /*-------------------------------------------------------------------- */
+    /*-------------------- ETHEREUM (ROPSTEN) ---------------------------- */
+    // address SLPAddress = 0x5dF7622c41c3a3d43EBbF3AC8B59d3ACDB6Eb9e9;
+    // address AXSAddress = 0x892B78f588a125c75d4EF9bA7135ff4468C4A2b0;
+    // address WETHAddress = 0x45DD6A6af28126aA8170A5fe952993EFCce4951c;
+    // address USDCAddress = 0x81469E6dc22F8E4D5D1Dc7EF4f6e8f2E5fE597Da;
+    // address RONAddress = 0x8b47d02Dfeedae0eB7c3FA401DEb2B29f366Df23;
+     /*-------------------------------------------------------------------- */
+    /*--------------- BINANCE SMART CHAIN (TESTNET) ----------------------- */
+    // address SLPAddress = 0x65CEC8494cffE2845bc0C1bB115eDaa551DD74c9;
+    // address AXSAddress = 0xc24f3e4e29152530ba38781679c1246FABeCb212;
+    // address WETHAddress = 0x747e1667d92C338694b20E043f4A0074dB1496d4;
+    // address USDCAddress = 0x1564ea2730894c4872abE5dd7cE00daBe9F7D242;
+    // address RONAddress = 0x50C40046BAb46c2Eeda8250DfA6229f2A5425537;
+    // address MATICAddress = 0x1014Be8A545e258C60Be95aA4309E34AbE1dD813;
+    // address AVAXAddress = 0xB63405C9D5792d522366D0FD8d669a53359450E8;
+    // address BNBAddress = 0xc08fe501c6c1F3847BA6E63d2522C68F81cD0780;
+     /*-------------------------------------------------------------------- */
+    /*--------------- BINANCE SMART CHAIN (MAINNET) ----------------------- */
+    address SLPAddress = 0x070a08BeEF8d36734dD67A491202fF35a6A16d97;
+    address AXSAddress = 0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0;
+    address WETHAddress = 0x2170Ed0880ac9A755fd29B2688956BD959F933F8;
+    address USDCAddress = 0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d;
+    address MATICAddress = 0xCC42724C6683B7E57334c4E856f4c9965ED682bD;
+    address AVAXAddress = 0x1CE0c2827e2eF14D5C4f29a091d735A204794041;
+    address BNBAddress = 0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c;
+    /*-------------------------------------------------------------------- */
+    /*--------------- POLYGON (TESTNET) ----------------------- */
+    // address SLPAddress = 0xEA9f57D549BDd23163a63b5Dc786c2372507FC7c;
+    // address AXSAddress = 0xbc43f52c33b9930Fc9ba3DCc05fee191aB23A499;
+    // address WETHAddress = 0xb5965EBA62731d81B327Dd1557d4F7d834E1b333;
+    // address USDCAddress = 0x22D434B072D7B6D7970860d0E3503baf2eDFA53b;
+    // address RONAddress = 0x1357D3C7adD9Cf2331E52767f43C2040040D20d0;
+    // address MATICAddress = 0x28AEAbEdbc6AE078611b0d2136b5856cC078E1B9;
+    // address AVAXAddress = 0x1c31C092e2C1AaCfc6d83a4304807Adf1249fC7d;
+    // address BNBAddress = 0xC4dDE7C4428604f082689C11bFC3e8864165FCbB;
+     /*-------------------------------------------------------------------- */
+    /*--------------- AVAX (TESTNET) ----------------------- */
+    // address SLPAddress = 0x892B78f588a125c75d4EF9bA7135ff4468C4A2b0;
+    // address AXSAddress = 0x24F28cd11e22292FDe89f647FDA0235F45285c1a;
+    // address WETHAddress = 0xbc43f52c33b9930Fc9ba3DCc05fee191aB23A499;
+    // address USDCAddress = 0x45DD6A6af28126aA8170A5fe952993EFCce4951c;
+    // address RONAddress = 0x104B5653967b821c02bfD3E93D61f7AA9f568EB5;
+    // address MATICAddress = 0x28AEAbEdbc6AE078611b0d2136b5856cC078E1B9;
+    // address AVAXAddress = 0x35F2557Bb12444ab2dbAbB0DA805b6C88e331140;
+    // address BNBAddress = 0x1357D3C7adD9Cf2331E52767f43C2040040D20d0;
+     /*-------------------------------------------------------------------- */
+    /*--------------- AVAX (MAINNET) ----------------------- */
+    // address WETHAddress = 0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB;
+    // address USDCAddress = 0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E;
+    // address MATICAddress = 0xf2f13f0B7008ab2FA4A2418F4ccC3684E49D20Eb;
+    // address AVAXAddress = 0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7;
+    // address BNBAddress = 0x442F7f22b1EE2c842bEAFf52880d4573E9201158;
+     /*-------------------------------------------------------------------- */
